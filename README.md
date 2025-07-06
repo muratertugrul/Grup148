@@ -1,4 +1,4 @@
-# 🧠 Welcome to Reality – AI Destekli Kariyer Yönlendirme Platformu
+# 🧠 GRUP148 – PROJEKA - AI Destekli Kariyer Yönlendirme Platformu
 
 ## 🎯 Proje Amacı
 
@@ -12,37 +12,12 @@
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- Python 3.10+
+- Python 
 - FastAPI (Backend)
 - PostgreSQL (Veri tabanı)
-- Gemini Pro API (LLM entegrasyonu)
-- Web Scraping (requests, BeautifulSoup)
+- Gemini Pro API (LLM entegrasyonu)"
 - HTML/CSS veya Streamlit (Frontend)
-- Render.com (Deployment)
-
-## 📁 Dizin Yapısı
-
-```
-/app
-  ├── main.py
-  ├── routers/
-  ├── models/
-  ├── schemas/
-  ├── database/
-data/
-  └── sample_jobs.json
-images/
-  └── sprint1_board.png
-```
-
-## 🔧 Kurulum
-
-```bash
-pip install -r requirements.txt
-uvicorn main:app --reload
-```
-
----
+  
 
 # 👥 Takım Üyeleri
 
@@ -63,46 +38,32 @@ uvicorn main:app --reload
 - Veri toplama ve anonimleştirme
 - PostgreSQL kurulumu ve şema yapısı
 - FastAPI temel uçlarının oluşturulması
-- Swagger üzerinden test
 
 ## ✅ Gerçekleştirilen Görevler
 
-- [x] Kaggle verisi incelendi ve örnek JSON dosyası hazırlandı
-- [x] PostgreSQL veritabanı kuruldu
 - [x] FastAPI iskeleti oluşturuldu
 - [x] `/register`, `/login`, `/get_jobs` uçları hazırlandı
-- [x] Swagger UI ile test edildi
-
+      
 ## 🔢 Story Point Tahminleri
 
-| Görev                          | SP  | Durum     |
-|--------------------------------|-----|-----------|
-| PostgreSQL kurulumu            | 3   | ✅ Tamamlandı |
-| Web scraping (örnek JSON)      | 4   | ✅ Tamamlandı |
-| FastAPI kullanıcı uçları       | 4   | ✅ Tamamlandı |
-| LLM prompt taslağı             | 6   | ⏳ Devam ediyor |
-| Kullanıcı senaryosu            | 4   | ✅ Tamamlandı |
-| Swagger testleri               | 3   | ✅ Tamamlandı |
-
-Toplam SP hedefi: **24**  
-Tamamlanan: **21 SP** → Başarı oranı: **%87**
+| Görev                                | SP  | Durum     |
+|--------------------------------------|-----|-----------|
+| PostgreSQL kurulumu                  | 3   | ❌ Tamamlanmadı |
+| FastAPI kullanıcı kayıt/giriş uçları | 5   | ✅ Tamamlandı |
+| FastAPI kullanıcı uçları             | 5   | ✅ Tamamlandı |
+Toplam SP hedefi: **13**  
+Tamamlanan: **10 SP** → Başarı oranı: **%76,92**
 
 ## 🧠 Tahmin Mantığı
 
-Story point'ler; teknik karmaşıklık, zaman tahmini ve daha önceki tecrübelere göre belirlendi. 
-1 SP ≈ 0.5 günlük iş gücü olarak hesaplandı.
+Story point'ler; teknik karmaşıklık, zaman tahminine göre belirlendi. Story pointler Fibonacci dizisi ile değerlendirildi.
 
 ## 🕓 Daily Scrum Özetleri
 
-- **Gün 1:** Veriler hazırlandı, veri tabanı yapısı planlandı
-- **Gün 2:** FastAPI uçları için temel kod yapısı yazıldı
-- **Gün 3:** JSON veriler işlendi, anonimleştirme tamamlandı
-- **Gün 4:** Swagger testleri yapıldı
-- **Gün 5:** Geriye kalan görevler gözden geçirildi, board güncellendi
+
 
 ## 📋 Sprint Board
 
-![Sprint Board](images/sprint1_board.png)
 
 ## 🔄 Retrospective
 
