@@ -63,14 +63,19 @@ Story point'ler; teknik karmaşıklık, zaman tahminine göre belirlendi. Story 
 
 ## 🕓 Daily Scrum Özetleri
 
+Takım olarak günlük toplantılarımızı genellikle Google Meet üzerinden gerçekleştirdik. Toplantılarda her ekip üyesi o gün üzerinde çalıştığı görevleri, yaşadığı engelleri ve bir sonraki adımını paylaştı. Toplantı dışında takım içi iletişim ağırlıklı olarak WhatsApp üzerinden sağlandı. Trello üzerinden ayrı bir daily panosu açıldı.
+![Daily scrum](images/daily.png)
+
 
 
 ## 📋 Sprint Board
-
-
+![Sprint Board](/Trellopano.png)
 ## 🔄 Sprint Review
 
-Bu sprintin sonunda geliştirilen işlevler takım ve paydaşlarla birlikte gözden geçirildi. Kullanıcı giriş sistemi başarıyla tamamlandı ve test edildi. LLM üzerinde olumlu geri bildirimler alındı. Postgre bir sonraki sprint'e aktarılması kararlaştırıldı. 
+Bu sprintin sonunda geliştirilen işlevler takım ve paydaşlarla birlikte gözden geçirildi. Kullanıcı giriş sistemi başarıyla tamamlandı ve test edildi. LLM üzerinde olumlu geri bildirimler alındı. Postgre bir sonraki sprint'e aktarılması kararlaştırıldı.  Anket sonuçları incelendi.
+![Anket 1](images/anket.png)
+![Anket 2](images/anketa.jpg)
+
 
 ## 🔄 Sprint Retrospective
 
