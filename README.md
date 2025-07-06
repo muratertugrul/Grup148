@@ -66,8 +66,7 @@ Story point'ler; teknik karmaşıklık, zaman tahminine göre belirlendi. Story 
 
 
 ## 📋 Sprint Board
-
-
+![Sprint Board](/Trellopano.png)
 ## 🔄 Sprint Review
 
 Bu sprintin sonunda geliştirilen işlevler takım ve paydaşlarla birlikte gözden geçirildi. Kullanıcı giriş sistemi başarıyla tamamlandı ve test edildi. LLM üzerinde olumlu geri bildirimler alındı. Postgre bir sonraki sprint'e aktarılması kararlaştırıldı. 
