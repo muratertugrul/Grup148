@@ -33,6 +33,9 @@
 
 # 🟩 Sprint 1 Raporu
 
+## 🟩 Sprint 1 Notları
+Bu sprintte proje için temel yapı oluşturuldu. Geliştirme ortamı hazırlandı, kullanıcı arayüzü taslakları belirlendi ve ilk işlevsel modül olan kullanıcı giriş sistemi geliştirildi. Sprint sonunda planlanan işlerin büyük çoğunluğu tamamlandı, eksik kalan görevler bir sonraki sprint'e aktarıldı.
+
 ## 🔎 Sprint Hedefleri
 
 - Veri toplama ve anonimleştirme
@@ -67,9 +70,11 @@ Story point'ler; teknik karmaşıklık, zaman tahminine göre belirlendi. Story 
 
 ## 🔄 Sprint Review
 
-## 🔄 Retrospective
+Bu sprintin sonunda geliştirilen işlevler takım ve paydaşlarla birlikte gözden geçirildi. Kullanıcı giriş sistemi başarıyla tamamlandı ve test edildi. LLM üzerinde olumlu geri bildirimler alındı. Postgre bir sonraki sprint'e aktarılması kararlaştırıldı. 
 
+## 🔄 Sprint Retrospective
 
+Sprint sonunda takım olarak süreçlerimizi değerlendirdik. Bu sprintte takım içi iletişim ve görev dağılımı kısmen başarılı şekilde yürütüldü. İletişim düzenli olarak devam etti ve önemli görevler zamanında tamamlandı. Takım olarak toplantıların daha etkili ve yoğun geçmesini kararlaştırdık. Görevlerde değişimlere gittik.
 
 ---
 
