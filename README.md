@@ -65,19 +65,11 @@ Story point'ler; teknik karmaşıklık, zaman tahminine göre belirlendi. Story 
 ## 📋 Sprint Board
 
 
+## 🔄 Sprint Review
+
 ## 🔄 Retrospective
 
-### ✅ Neler iyi gitti?
-- İletişim güçlüydü, görev paylaşımı netti
-- API uçları zamanında yetişti
 
-### ⚠️ Zorluklar:
-- LLM prompt çıktıları beklenenden daha karmaşık geldi
-- Kod entegrasyonları bazı dosyalarda zaman aldı
-
-### 💡 Geliştirmeler:
-- LLM prompt kısmı için küçük testler daha erken yapılmalıydı
-- Daily Scrum sonrası kısa teknik mini toplantılar yararlı oldu
 
 ---
 
