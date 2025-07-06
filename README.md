@@ -69,7 +69,7 @@ Takım olarak günlük toplantılarımızı genellikle Google Meet üzerinden ge
 
 
 ## 📋 Sprint Board
-![Sprint Board](/Trellopano.png)
+![Sprint Board](images/Trellopano.png)
 ## 🔄 Sprint Review
 
 Bu sprintin sonunda geliştirilen işlevler takım ve paydaşlarla birlikte gözden geçirildi. Kullanıcı giriş sistemi başarıyla tamamlandı ve test edildi. LLM üzerinde olumlu geri bildirimler alındı. Postgre bir sonraki sprint'e aktarılması kararlaştırıldı.  Anket sonuçları incelendi.
