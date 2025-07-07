@@ -61,10 +61,20 @@ Tamamlanan: **10 SP** → Başarı oranı: **%76,92**
 
 Story point'ler; teknik karmaşıklık, zaman tahminine göre belirlendi. Story pointler Fibonacci dizisi ile değerlendirildi.
 
+## ✅ Screenshots
+Login ve Register ekranımızın ilk görüntüleri.
+![Login](images/login.jpg)
+![Register](images/register.jpg)
+
+Canvadan yapılan arayüz planımız. 
+
+https://www.canva.com/design/DAGrXwrKkiM/wuTyCV6tHednyuc-712lEA/view?utm_content=DAGrXwrKkiM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfb2b8e41c4
+
+
 ## 🕓 Daily Scrum Özetleri
 
 Takım olarak günlük toplantılarımızı genellikle Google Meet üzerinden gerçekleştirdik. Toplantılarda her ekip üyesi o gün üzerinde çalıştığı görevleri, yaşadığı engelleri ve bir sonraki adımını paylaştı. Toplantı dışında takım içi iletişim ağırlıklı olarak WhatsApp üzerinden sağlandı. Trello üzerinden ayrı bir daily panosu açıldı.
-![Daily scrum](images/daily.png)
+![Daily scrum](images/daily.jpg)
 
 
 
