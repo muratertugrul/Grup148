@@ -132,7 +132,8 @@ Tamamlanan: **9 SP** → Başarı oranı: **%100**
 Story point'ler; teknik karmaşıklık, zaman tahminine göre belirlendi. Story pointler Fibonacci dizisi ile değerlendirildi.
 
 ## ✅ Screenshots
-Login ve Register ekranımızın ilk görüntüleri.
+Projekadan görüntü ve veri düzenimiz.
+![Projeka](images/projeka.png)
 ![Verifinal](images/verifinal.jpg)
 
 
