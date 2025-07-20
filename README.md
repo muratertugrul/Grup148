@@ -133,12 +133,8 @@ Story point'ler; teknik karmaşıklık, zaman tahminine göre belirlendi. Story 
 
 ## ✅ Screenshots
 Login ve Register ekranımızın ilk görüntüleri.
-![Login](images/login.jpg)
-![Register](images/register.jpg)
+![Verifinal](images/verifinal.jpg)
 
-Canvadan yapılan arayüz planımız. 
-
-https://www.canva.com/design/DAGrXwrKkiM/wuTyCV6tHednyuc-712lEA/view?utm_content=DAGrXwrKkiM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfb2b8e41c4
 
 
 ## 🕓 Daily Scrum Özetleri
@@ -152,9 +148,8 @@ Takım olarak günlük toplantılarımızı genellikle Google Meet üzerinden ge
 ![Sprint Board](images/trellopano2.png)
 ## 🔄 Sprint Review
 
-Bu sprintin sonunda geliştirilen işlevler takım ve paydaşlarla birlikte gözden geçirildi. Kullanıcı giriş sistemi başarıyla tamamlandı ve test edildi. LLM üzerinde olumlu geri bildirimler alındı. Postgre bir sonraki sprint'e aktarılması kararlaştırıldı.  Anket sonuçları incelendi.
-
+Bu sprintte, yapay zekâ destekli özet çıkarma modülünün veri hazırlık ve kayıt süreci odak noktasıydı. Aşağıdaki görevler başarıyla tamamlandı. Sprintin sonunda geliştirilen modüller takım ve proje asistanı ile birlikte gözden geçirildi. Backend tarafında sistem mimarisi oturmaya başladı.
 
 ## 🔄 Sprint Retrospective
 
-Sprint sonunda takım olarak süreçlerimizi değerlendirdik. Bu sprintte takım içi iletişim ve görev dağılımı kısmen başarılı şekilde yürütüldü. İletişim düzenli olarak devam etti ve önemli görevler zamanında tamamlandı. Takım olarak toplantıların daha etkili ve yoğun geçmesini kararlaştırdık. Görevlerde değişimlere gittik.
+Sprint sonunda takım olarak süreçlerimizi değerlendirdik. Bu sprintte takım içi iletişim ve görev dağılımı başarılı şekilde yürütüldü. İletişim düzenli olarak devam etti ve önemli görevler zamanında tamamlandı. Takım olarak son sprintte toplantı ve teslim tarihlerine daha sıkı süreler vermeyi kararlaştırdık. 
